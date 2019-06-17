@@ -1,0 +1,30 @@
+* Nombre de soleils initial *
+500
+* Classes zombies de jour *
+FlagZombie,PoleVaultingZombie,BucketheadZombie, ClassicalZombie,ConeHeadZombie,TrashCanZombie
+* Classes zombies de nuit & fog *
+FlagZombie,BucketheadZombie,ClassicalZombie,PoleVaultingZombie,DancingZombie,FootballZombie,GigaFootballZombie,NewspaperZombie,ScreenDoorZombie,JackInTheBoxZombie,PogoZombie
+* Classes zombies de piscine *
+FlagZombie,BucketheadZombie,ClassicalZombie,ConeHeadZombie,PoleVaultingZombie,DancingZombie,FootballZombie,NewspaperZombie,ScreenDoorZombie,DolphinRiderZombie,SnorkelZombie,Zomboni,ZombieBobsledTeam
+* Classes zombies de toit *
+FlagZombie,BucketheadZombie,ClassicalZombie,ConeHeadZombie,PoleVaultingZombie,TrashCanZombie,DancingZombie,FootballZombie,GigaFootballZombie,NewspaperZombie,ScreenDoorZombie,NewspaperZombie,JackInTheBoxZombie,BungeeZombie,CatapultZombie,FlyingZombie,LadderZombie
+* Toutes classes de plantes *
+SunFlower,Peashooter,WallNut,CherryBomb,PotatoMine,SnowPea,Chomper,Repeater,PuffShroom,SunShroom,FumeShroom,GraveBuster,ScaredyShroom,IceShroom,DoomShroom,LilyPad,Threepeater,Jalapeno,SpikeWeed,Torchwood,HypnoShroom,TallNut,Squash,TangleKelp,Cactus,SeaShroom,SplitPea,FlowerPot,Plantern,CabbagePult,CoffeeBean,Garlic,KernelPult,Blover,MelonPult,UmbrellaLeaf
+* Toutes classes de zombies *
+SnorkelZombie,ClassicalZombie,ConeHeadZombie,DancingZombie,TrashCanZombie,BucketheadZombie,FootballZombie,ScreenDoorZombie,PoleVaultingZombie,NewspaperZombie,DolphinRiderZombie,BungeeZombie,CatapultZombie,JackInTheBoxZombie,LadderZombie,FlyingZombie,PogoZombie,GigaFootballZombie,Zomboni,ZombieBobsledTeam
+* Nombre de zombies initial d'une wave *
+0
+* Temps entre deux waves *
+2
+* Nombre de zombies a incrementer *
+1
+* Temps entre le spawn de deux zombies *
+2
+* Temps entre les waves a incrementer *
+5
+* Duree d'une partie en secondes *
+300
+* Nombre de cartes selectionnables */
+8
+/* Vitesse de jeu */
+1
